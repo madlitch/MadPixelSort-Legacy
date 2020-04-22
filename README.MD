@@ -10,15 +10,15 @@ in images by pixel processing.
 Either download the respective executable for your operating system, or 
 download Processing (https://processing.org/) and run the .pde in Processing.
 
-##Usage
-####Sorting
+## Usage
+#### Sorting
 Load the file you wish to pixel sort, it must be either a .jpeg or a .png.
 Click the corresponding radio button of the mode you want to use. 
 You can adjust the threshold sliders of each color sorting mode. 
 The higher the threshold, the less pixels will
 be included in the sorting run.
 
-####Saving
+#### Saving
 When prompted, choose the folder you wish to export the files to. You can 
 save your exports as either .tiff, .jpeg, or .png files.
 
@@ -40,7 +40,7 @@ will be the ones shown in the file name.
 
 
 
-##License
+## License
 MIT License
 
 Copyright (c) 2020 Massimo Albanese
