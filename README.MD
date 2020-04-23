@@ -22,8 +22,7 @@ be included in the sorting run.
 When prompted, choose the folder you wish to export the files to. You can 
 save your exports as either .tiff, .jpeg, or .png files.
 
-It is recommended that you create a new folder with the name of the picture and "_sorted" as a suffix (for example)
-if you plan on saving multiple documents.
+The program will create a folder named *filename*_*sorted*, and will save all your exports there.
 
 The exported file will have a filename with this structure: 
 
