@@ -19,8 +19,7 @@ The higher the threshold, the less pixels will
 be included in the sorting run.
 
 #### Saving
-When prompted, choose the folder you wish to export the files to. You can 
-save your exports as either .tiff, .jpeg, or .png files.
+When prompted, choose the folder you wish to export the files to. After choosing the host folder, click the save button. You can save your exports as either .tiff, .jpeg, or .png files.
 
 The program will create a folder named *filename*_*sorted*, and will save all your exports there.
 
