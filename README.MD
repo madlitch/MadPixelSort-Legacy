@@ -3,7 +3,7 @@
 MadPixelSort is a standalone program created to produce glitch effects 
 in images by pixel processing.
 
-##Installation
+## Installation
 
  You will need Java 8 or above installed on your machine.
 
