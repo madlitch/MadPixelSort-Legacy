@@ -7,7 +7,7 @@ in images by pixel processing.
 
 ## Installation
 
- You will need Java 8 or above installed on your machine.
+ You will need Java 8 or above installed on your machine (https://www.java.com/en/download/).
 
 Either download the respective executable for your operating system (under releases: https://github.com/madlitch/MadPixelSort/releases), or download Processing (https://processing.org/) and run the .pde in Processing.
 
