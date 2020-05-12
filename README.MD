@@ -11,6 +11,8 @@ in images by pixel processing.
 
 Either download the respective executable for your operating system (under releases: https://github.com/madlitch/MadPixelSort/releases), or download Processing (https://processing.org/) and run the .pde in Processing.
 
+When on Windows, do not move the executable file (MadPixelSort.exe) out of the containing folder. Otherwise, the application will not work.
+
 ## Usage
 #### Sorting
 Load the file you wish to pixel sort, it must be either a .jpeg or a .png.
