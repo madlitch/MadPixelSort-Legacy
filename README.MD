@@ -1,7 +1,7 @@
 # MadPixelSort
 
 MadPixelSort is a standalone program created to produce glitch effects 
-in images by pixel processing.
+in images by pixel sorting.
 
 ![MadPixelSort Screenshot](/images/mpsscreenshot.png)
 
